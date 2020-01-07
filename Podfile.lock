@@ -1,0 +1,20 @@
+PODS:
+  - GoongGeocoder (0.0.5)
+  - GoongSDK (0.0.6)
+
+DEPENDENCIES:
+  - GoongGeocoder
+  - GoongSDK
+
+SPEC REPOS:
+  trunk:
+    - GoongGeocoder
+    - GoongSDK
+
+SPEC CHECKSUMS:
+  GoongGeocoder: 704fd0668f0648e89afd121935981f0cea893005
+  GoongSDK: f230acc8b5911bb145be5a025dd8251790ec33c1
+
+PODFILE CHECKSUM: 99af3c05168732a123a4c262fca309e5991740f9
+
+COCOAPODS: 1.8.4
