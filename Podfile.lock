@@ -1,5 +1,5 @@
 PODS:
-  - GoongGeocoder (0.0.5)
+  - GoongGeocoder (0.0.6)
   - GoongSDK (0.0.6)
 
 DEPENDENCIES:
@@ -12,8 +12,8 @@ SPEC REPOS:
     - GoongSDK
 
 SPEC CHECKSUMS:
-  GoongGeocoder: 704fd0668f0648e89afd121935981f0cea893005
-  GoongSDK: f230acc8b5911bb145be5a025dd8251790ec33c1
+  GoongGeocoder: c477f832c5af60da95ca14e556dc66b747556b87
+  GoongSDK: f6253b9d04186247f90440da3a35fd5289d4a34d
 
 PODFILE CHECKSUM: 99af3c05168732a123a4c262fca309e5991740f9
 

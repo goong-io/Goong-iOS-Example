@@ -18,7 +18,7 @@ class ViewController: UIViewController, MGLMapViewDelegate, GoongAutocompleteDel
         mapView.autoresizingMask = [.flexibleWidth, .flexibleHeight]
         mapView.delegate = self
         // View more style at MGLStyle.h
-        mapView.styleURL = URL(string: "https://tiles.goong.io/assets/goong_map_web.json")
+        mapView.styleURL = MGLStyle.dayStyleURL
         // Optionally set a starting point.
         mapView.setCenter(CLLocationCoordinate2DMake(21.028511, 105.804817), zoomLevel: 12, animated: false)
         // Show user location dot
